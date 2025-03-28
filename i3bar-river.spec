@@ -11,7 +11,7 @@ License:	GPL-3.0
 Group:		Wayland/Utils
 
 BuildRequires:	cargo
-
+BuildRequires:	libpango1.0-devel
 
 %description
 %summary
