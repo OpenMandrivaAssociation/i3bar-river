@@ -12,6 +12,7 @@ Group:		Wayland/Utils
 
 BuildRequires:	cargo
 BuildRequires:	pkgconfig(pango)
+BuildRequires:	pkgconfig(pangocairo)
 
 %description
 %summary
